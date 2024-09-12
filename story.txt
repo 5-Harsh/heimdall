@@ -1,0 +1,16 @@
+Project Heimdall
+
+Heimdall | Guardian of Asgard, God of War & Watchman of Bifrost
+So i wanted to create a auth based reuseable code.
+so that we need not to spend time on reinventing the wheel every single time
+create a advance auth system
+capable of doing jwt and csr based authentication
+also able to provide google and other third party singups
+
+also should have its own default login and registration page and
+if else we can directly use its login and registration apis for integrating with projects
+also some standard route protecting mechanism such 
+to keep the internal routes protected at all costs!!
+
+Happy Hacking HRJ!
+
